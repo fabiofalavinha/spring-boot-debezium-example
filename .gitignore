@@ -34,3 +34,5 @@ build/
 
 ### Application Temp Directory ###
 /tmp/
+
+.DS_STORE
