@@ -1,1 +1,0 @@
-{"source":{"server":"customer-mysql-db-server"},"position":{"ts_sec":1626451675,"file":"binlog.000004","pos":156,"snapshot":true},"databaseName":"","ddl":"SET character_set_server=utf8mb4, collation_server=utf8mb4_0900_ai_ci","tableChanges":[]}
